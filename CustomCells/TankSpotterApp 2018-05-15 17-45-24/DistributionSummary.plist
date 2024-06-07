@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TankSpotterApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AD03EBE8BA7D90544F0FA5E0C8D387A8B994BF2D</string>
+				<key>dateExpires</key>
+				<string>15/05/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2DDUUEN2WS.com.tankspotter</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2DDUUEN2WS</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>TankSpotterApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>da584ae1-0a94-414a-ac99-eb54ab4b8349</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.tankspotter</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2DDUUEN2WS</string>
+				<key>name</key>
+				<string>William Stomp</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

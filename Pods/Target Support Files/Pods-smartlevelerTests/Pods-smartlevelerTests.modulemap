@@ -1,0 +1,6 @@
+framework module Pods_smartlevelerTests {
+  umbrella header "Pods-smartlevelerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
